@@ -15,7 +15,7 @@ Easily install TWRP Recovery on your Xiaomi device with just one click!
 
 ## How to Use
 
-1. **Download** the tool `.zip` file from [Releases](#).
+1. **Download** the tool `.zip` file from [Releases](https://github.com/kamilhussen24/One-click-install-Twrp-all-xiaomi-device/archive/refs/heads/main.zip).
 2. **Extract** the `.zip` to any folder.
 3. **Replace** the default `recovery.img` file with your own TWRP image:
    - Make sure your TWRP file is named exactly `recovery.img`
